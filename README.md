@@ -15,7 +15,6 @@ Configurations optionals
 * Strict Mode (Type Hinting)
 * Return Type (PHP7)
 * PHPDoc
-* Append to file extension
 
 Features
 --------
