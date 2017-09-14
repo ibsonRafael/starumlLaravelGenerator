@@ -1,0 +1,16 @@
+{
+    "name": "irgma.php.laravel",
+    "title": "Laravael 5.X",
+    "description": "Laravel code generation.",
+    "homepage": "https://github.com/ibsonRafael/irgma.php.laravel",
+    "keywords": ["php", "laravel"],
+    "version": "0.0.3",
+    "author": {
+        "name": "Ibson R G Machado",
+        "url": "https://github.com/ibsonRafael"
+    },
+    "license": "MIT",
+    "engines": {
+        "staruml": ">=2.0.0"
+    }
+}
